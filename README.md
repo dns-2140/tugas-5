@@ -1,7 +1,5 @@
 # PremiumStore - E-Commerce Product Listing
 
-![PremiumStore Screenshot](https://i.imgur.com/JK9yQ2H.png)
-
 A modern, responsive e-commerce product listing page with advanced filtering capabilities, search functionality, and cart management.
 
 ## Features
